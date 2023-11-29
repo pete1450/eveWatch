@@ -10,9 +10,11 @@ This is gross and thrown together. Most code is used, some may not be and is lef
     a. Exclamation icon
 	b. Minus icon
 	c. Equals icon
-5. Update and values in the config section of the script. 
+5. Update and values in the config section of the script.
+    * you need to find several bounding boxes for things on your screen based on upper left point then width/height.
 6. Update instances of "somethingfriendly" for harcoded corp names to ignore
 7. Run the script
+8. Don't move/cover your emulator
 
 
 ## Behavior
