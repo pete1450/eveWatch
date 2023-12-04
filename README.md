@@ -3,7 +3,7 @@
 This is gross and thrown together. Most code is used, some may not be and is left over from trying things and never cleaned up.
 
 ## Install
-1. Install python
+1. Install python. I use 3.10
 2. Install everything from the imports
 3. Set up a discord bot and save the token. [like this](https://discordpy.readthedocs.io/en/stable/discord.html#discord-intro)
 4. Start the game, make small images of the following. I've included mine as examples but your screen resolution may be different.
