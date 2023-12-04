@@ -4,17 +4,18 @@ This is gross and thrown together. Most code is used, some may not be and is lef
 
 ## Install
 1. Install python. I use 3.10
-2. Install everything from the imports
-3. Set up a discord bot and save the token. [like this](https://discordpy.readthedocs.io/en/stable/discord.html#discord-intro)
-4. Start the game, make small images of the following. I've included mine as examples but your screen resolution may be different.
+2. Install Tesseract
+3. Install everything from the imports
+4. Set up a discord bot and save the token. [like this](https://discordpy.readthedocs.io/en/stable/discord.html#discord-intro)
+5. Start the game, make small images of the following. I've included mine as examples but your screen resolution may be different.
     a. Exclamation icon
 	b. Minus icon
 	c. Equals icon
-5. Update and values in the config section of the script.
+6. Update and values in the config section of the script.
     * you need to find several bounding boxes for things on your screen based on upper left point then width/height.
-6. Update instances of "somethingfriendly" for harcoded corp names to ignore
-7. Run the script
-8. Don't move/cover your emulator
+7. Update instances of "somethingfriendly" for harcoded corp names to ignore
+8. Run the script
+9. Don't move/cover your emulator
 
 
 ## Behavior
